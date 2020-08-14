@@ -1,11 +1,30 @@
 ## Universidad de Ensenada 
-## Curso de Métodos numéricos 2020
-## Ingeniería Industrial
+# Curso de Métodos numéricos 2020
+# Ingeniería Industrial
 
+Este repositorio contiene los trabajos finales de la materia de **métodos numéricos** en **Universidad de Ensenada** durante el ciclo 2020.
+Para accesar a todos los archivos se puede dar clic en el siguiente [enlace al repositorio](https://github.com/roilhi/MetNum_ITECI_2020/).
+Se pueden encontrar en código Python los siguientes métodos numéricos:
+- I)	Raíces o soluciones de ecuaciones no lineales:
+a.	Método de bisección 
+b.	Método de Newton-Raphson 
+c.	Método de la secante
 
-You can use the [editor on GitHub](https://github.com/roilhi/MetNum_ITECI_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+-II)	Interpolación y regresión numéricas (seleccionar un método y un ejercicio resuelto):
+a.	Método de interpolación de Newton
+b.	Método de interpolación de Lagrange
+c.	Método de regresión lineal por mínimos cuadrados
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- III)	Integración y diferenciación numéricas (seleccionar un método y un ejercicio resuelto):
+a.	Método del trapecio
+b.	Método de Simpson 1/3
+c.	Método de Simpson 3/8
+d.	Diferenciación numérica
+
+- IV)	Sistemas de ecuaciones lineales (seleccionar un método y un ejercicio resuelto):
+a.	Eliminación por Gauss-Jordan
+b.	Matriz inversa
+c.	Método de Jacobi
 
 ### Markdown
 
@@ -31,10 +50,4 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/roilhi/MetNum_ITECI_2020/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
