@@ -1,4 +1,7 @@
-## Welcome to GitHub Pages
+## Universidad de Ensenada 
+## Curso de Métodos numéricos 2020
+## Ingeniería Industrial
+
 
 You can use the [editor on GitHub](https://github.com/roilhi/MetNum_ITECI_2020/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
