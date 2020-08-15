@@ -29,7 +29,8 @@ Se pueden encontrar en código Python los siguientes métodos numéricos:
 3.	Método de Jacobi
 
 ## Alumnos participantes: 
+_Clarissa Alvarado Damián_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/AlvaradoClarissa_TrabajoFinalMetNum_.ipynb)
 
- [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
 
 
