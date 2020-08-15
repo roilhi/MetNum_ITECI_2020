@@ -1,10 +1,12 @@
-## Universidad de Ensenada 
+# Universidad de Ensenada 
 # Curso de Métodos numéricos 2020
 # Ingeniería Industrial
 
 Este repositorio contiene los trabajos finales de la materia de **métodos numéricos** en **Universidad de Ensenada** durante el ciclo 2020.
 Para accesar a todos los archivos se puede dar clic en el siguiente [enlace al repositorio](https://github.com/roilhi/MetNum_ITECI_2020/).
 Se pueden encontrar en código Python los siguientes métodos numéricos:
+
+
 -**I)Raíces o soluciones de ecuaciones no lineales:**
 1.	Método de bisección 
 2.	Método de Newton-Raphson 
@@ -26,28 +28,8 @@ Se pueden encontrar en código Python los siguientes métodos numéricos:
 2.	Matriz inversa
 3.	Método de Jacobi
 
-### Markdown
+## Alumnos participantes: 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+ [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 
