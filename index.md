@@ -27,6 +27,8 @@ Se pueden encontrar en código Python los siguientes métodos numéricos:
 1.	Eliminación por Gauss-Jordan
 2.	Matriz inversa
 3.	Método de Jacobi
+
+
 _Diseño y dirección: Dr. Roilhi Frajo Ibarra Hernández_
 
 ## Alumnos participantes: 
