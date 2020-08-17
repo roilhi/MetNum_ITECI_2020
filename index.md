@@ -41,6 +41,6 @@ _Karen Nohemy Cota Quezada_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI
 _Carlos Ruiz García_[ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/Carlos_ruiz_proyecto_final%2C_m%C3%A9todos_num%C3%A9ricos.ipynb)
 _Leonardo Espinal [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/EspinalLeonardo_TrabajoFinalMetNum.ipynb)
 _Daniel Solíz Ruíz_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/_SolisDanielr_TrabajoFinalMetNum.ipynb)
-_Francisco Javier López Rodríguez_ (https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/L%C3%B3pezFrancisco_TrabajoFinalMetNum.ipynb)
+_Francisco Javier López Rodríguez_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/L%C3%B3pezFrancisco_TrabajoFinalMetNum.ipynb)
 
 
