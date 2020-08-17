@@ -32,6 +32,7 @@ Se pueden encontrar en código Python los siguientes métodos numéricos:
 _Diseño y dirección: Dr. Roilhi Frajo Ibarra Hernández_
 
 ## Alumnos participantes: 
+
 -_Clarissa Alvarado Damián_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/AlvaradoClarissa_TrabajoFinalMetNum_.ipynb)
 
 -_Mónica Islas Sáenz_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/IslasMonica_TrabajoFinalMetNum.ipynb)
@@ -51,5 +52,11 @@ _Diseño y dirección: Dr. Roilhi Frajo Ibarra Hernández_
 -_Daniel Solíz Ruíz_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/_SolisDanielr_TrabajoFinalMetNum.ipynb)
 
 -_Francisco Javier López Rodríguez_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/L%C3%B3pezFrancisco_TrabajoFinalMetNum.ipynb)
+
+-_Saúl Damián Becerra Romo_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/1_Libreta_de_google_colab_SAUL_DAMIAN_BECERRA_ROMO.ipynb)
+
+
+
+
 
 
