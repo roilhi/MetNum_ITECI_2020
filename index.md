@@ -55,6 +55,8 @@ _Diseño y dirección: Dr. Roilhi Frajo Ibarra Hernández_
 
 -_Saúl Damián Becerra Romo_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/1_Libreta_de_google_colab_SAUL_DAMIAN_BECERRA_ROMO.ipynb)
 
+-_Carlos Matías_ [ver trabajo](https://github.com/roilhi/MetNum_ITECI_2020/blob/gh-pages/carlos_matias__trabajo_final.ipynb)
+
 
 
 
